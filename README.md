@@ -1,4 +1,4 @@
-<h1 align="center">Olá, eu sou a Raphaela! 👋💻</h1>
+<h1 align="center">Rpahaela Barreto! 💻</h1>
 
 <h3 align="center">Em transição de carreira: do Comercial para o Desenvolvimento 🚀</h3>
 
