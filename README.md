@@ -1,7 +1,4 @@
-<h1 align="center">Rpahaela Barreto! 💻</h1>
-
-<h3 align="center">Do Comercial para o Desenvolvimento 🚀</h3>
-
+<img src="https://capsule-render.vercel.app/api?type=wave&color=0:FFD6E8,100:C9E4FF&height=200&section=header&text=Raphaela%20Barreto&fontSize=45&fontColor=5C5C5C&fontAlignY=38&desc=Do%20Comercial%20para%20o%20Desenvolvimento%20🚀&descAlignY=58&descSize=18" width="100%"/>
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=8A2BE2&center=true&vCenter=true&width=500&lines=Aprendendo+Python+Full+Stack;Gestora+de+academia+%F0%9F%92%AA;Nerd+assumida+%F0%9F%A4%93;Sempre+aprendendo+algo+novo!" alt="Typing SVG" />
 </p>
