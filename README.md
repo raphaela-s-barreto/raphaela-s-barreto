@@ -1,6 +1,6 @@
 <h1 align="center">Rpahaela Barreto! 💻</h1>
 
-<h3 align="center">Em transição de carreira: do Comercial para o Desenvolvimento 🚀</h3>
+<h3 align="center">do Comercial para o Desenvolvimento 🚀</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=8A2BE2&center=true&vCenter=true&width=500&lines=Aprendendo+Python+Full+Stack;Gestora+de+academia+%F0%9F%92%AA;Nerd+assumida+%F0%9F%A4%93;Sempre+aprendendo+algo+novo!" alt="Typing SVG" />
