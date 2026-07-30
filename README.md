@@ -7,12 +7,11 @@
 
 ### 🙋‍♀️ Sobre mim
 
-- 🔄 Estou migrando de carreira: venho da área **Comercial** e hoje me dedico ao desenvolvimento de software
-- 🎓 Atualmente aprendendo **Python Full Stack** pelo programa **Jovem Programador do SENAC**
-- 🗄️ Estudando banco de dados com **MySQL Workbench**
-- 🏋️‍♀️ Também sou **gestora de uma academia** — unindo minha experiência de gestão com a nova jornada em tech
-- 🎮 Curiosa, um pouco nerd e apaixonada por aprender coisas novas
-- 💬 Meio divertida, meio profissional — no código e na vida
+- 🔄 Migrando da área **Comercial** para o desenvolvimento de software
+- 🎓 Aprendendo **Python Full Stack** pelo programa **Jovem Programador do SENAC**
+- 🗄️ Estudando banco de dados com **MySQL**
+- 🏋️‍♀️ Também sou **gestora de uma academia**, unindo minha experiência de gestão com a nova jornada em tech
+- 🎮 Curiosa,nerd e apaixonada por aprender coisas novas no código e na vida
 
 ---
 
@@ -20,7 +19,7 @@
 
 - 🎮 **Jogo em Portugol** — projeto interno em grupo desenvolvido durante o curso no SENAC
 - 🏢 **Sistema de Gestão de Academia** — projeto pessoal em Python para controle de alunos
-- 🤖 **Agente de IA no WhatsApp** — assistente que "traduz" editais, ajudando pessoas a terem melhor acesso à educação
+- 🤖 **Agente de IA no WhatsApp** — projeto em grupo- assistente que "traduz" editais, ajudando pessoas a terem melhor acesso à educação
 
 ---
 
